@@ -1,0 +1,8 @@
+./arquivo.txt
+./coresOrdenadas.txt
+./cores.txt
+./Exercícios/unix_tests/countries.txt
+./Exercícios/unix_tests/phrases.txt
+./files.txt
+./frutas.txt
+./tudo.txt
